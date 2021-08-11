@@ -1,0 +1,55 @@
+#appName {
+	font-size: 3rem;
+}
+
+.w {
+    width: 95%;
+    margin: auto;
+    margin-top: 0.8rem;
+    margin-bottom: 0;
+}
+
+.headerUpper, .headerlower {
+	width: 50%;
+}
+
+.makeStyles-root-2 {
+	margin-left: auto;
+}
+
+.MuiInput-underline:before {
+	border-bottom: 1px solid rgb(255 255 255)!important;
+}
+
+.MuiInput-underline:after {
+	border-bottom: 2px solid rgb(255 255 255)!important;
+}
+
+.MuiFormLabel-root {
+	color: #fff!important;
+}
+
+#standard-basic {
+	text-indent: 0.5rem!important;
+	color: #fff!important;
+	font-weight: bolder!important;
+}
+
+@media all and (max-width: 1000px) {
+	.header .headerUpper, .header .headerlower {
+		width: 100%;
+	}
+
+	.header .makeStyles-flex-6 {
+	    flex-direction: column;
+	}
+
+	.header .headerUpper {
+		margin-bottom: 1rem;
+		text-align: center;
+	}
+
+	.header .headerlower > form {
+		margin: auto;
+	}
+}

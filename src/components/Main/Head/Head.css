@@ -1,0 +1,12 @@
+.head {
+	text-align: center;
+	line-height: 5rem;
+}
+
+#cityName {
+	font-size: 2.3rem;
+}
+
+#cityTemp {
+	font-size: 1.8rem;
+}

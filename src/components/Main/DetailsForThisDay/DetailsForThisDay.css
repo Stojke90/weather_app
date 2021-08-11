@@ -1,0 +1,21 @@
+.currentDayWeatherDetails {
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.detailsTodayWeather {
+	width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    border-bottom-style: ridge;
+    border-width: thin;
+    line-height: 2;
+}
+
+.detailsTodayWeather > span {
+    color: #808080;
+    font-family: fangsong;
+    font-size: 1.1rem;
+}
