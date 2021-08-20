@@ -1,3 +1,5 @@
+For some reason the api server has stopped working, if it still throws out error 403 they haven't fixed the server yet. Comment on the WeatherBy24Hour component and everything that goes with it, it's a slider for 24h forecast. Thanks :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
